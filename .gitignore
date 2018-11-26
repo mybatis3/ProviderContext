@@ -1,0 +1,15 @@
+target/
+bin/
+log.roo
+.project
+.classpath
+.springBeans
+.DS_Store
+.gradle
+*.iml
+*.ipr
+*.iws
+derby.log
+.idea
+activemq-data
+.settings/
